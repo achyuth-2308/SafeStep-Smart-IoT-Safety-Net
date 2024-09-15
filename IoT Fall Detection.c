@@ -1,9 +1,4 @@
-Program Code
-This is the final program code for IoT based Fall Detector using NodeMCU.
-
-Program code of IoT based Fall Detection using NodeMCU and MPU6050 Sensor
-// IoT based Fall Detection using NodeMCU and MPU6050 Sensor
-//https://iotprojectsideas.com
+// IoT based Fall Detection using NodeMCU-ESP8266 and MPU6050 Sensor
 #include <Wire.h>
 #include <ESP8266WiFi.h>
 const int MPU_addr=0x68;  // I2C address of the MPU-6050
